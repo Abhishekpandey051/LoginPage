@@ -1,0 +1,55 @@
+img{
+    border-radius: 150px;
+    width: 250px;
+
+    
+}  
+.container{
+   background-color: #3E8E7E;
+   padding: 0px auto 20px auto;
+   text-align: center;
+    
+}
+
+input{
+    
+    padding: 8px 30px;
+    margin: 8px;
+    border: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+label{
+    font-family: Arial, Helvetica, sans-serif;
+    left: auto;
+}
+
+.btn1{
+    padding: 8px 100px;
+    margin:8px ;
+    background-color: green;
+    cursor: pointer;
+}
+.box{
+    background-color: rosybrown;
+    height: 100px;
+    padding: 16px;
+    
+}
+
+.btn{
+   background-color: #f44336;
+   padding:10px 30px;
+   font-family:Arial, Helvetica, sans-serif ;
+   border: none;
+   cursor: pointer;
+}
+.psw{
+    padding: 10px;
+    padding-left: 70%;
+    font-family:Arial, Helvetica, sans-serif ;
+    
+}
+btn1:hover{
+    background-color: red;
+}
